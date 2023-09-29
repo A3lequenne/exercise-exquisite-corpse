@@ -23,3 +23,4 @@ He is really tired of flying so much . ** Oni part **
 >>>>>>> 35ed9afa26409aadc76d14b9618eedce235f7740
 >>>>>>> 9869977e8e62b2adb3f485f71b369d8072fa4c1e
 >>>>>>> e787170c26779354323bddbe1338fba61f392d12
+Il était une fois un dragon solitaire nommé Drako. Il vivait dans une grotte au sommet d'une montagne, gardant un trésor scintillant. Les villageois le craignaient, mais Drako était en réalité un dragon gentil et solitaire.
