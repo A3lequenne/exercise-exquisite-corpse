@@ -16,3 +16,4 @@ The dragon was red. He got lost in time, so he is trying to get home.
 He is really tired of flying so much . ** Oni part **
 
 Il était une fois un dragon solitaire nommé Drako. Il vivait dans une grotte au sommet d'une montagne, gardant un trésor scintillant. Les villageois le craignaient, mais Drako était en réalité un dragon gentil et solitaire.
+
